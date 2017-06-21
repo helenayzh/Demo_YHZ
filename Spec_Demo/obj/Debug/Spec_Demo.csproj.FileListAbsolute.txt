@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\Default.srprofile
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\Spec_Demo.dll.config
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\Spec_Demo.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\Spec_Demo.pdb
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\WebDriver.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\WebDriver.Support.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\WebDriver.xml
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\bin\Debug\WebDriver.Support.xml
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\obj\Debug\Spec_Demo.dll
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\obj\Debug\Spec_Demo.pdb
+C:\Users\User\Documents\GitHub\UniSuper\Spec_Demo\Spec_Demo\obj\Debug\Spec_Demo.csprojResolveAssemblyReference.cache
